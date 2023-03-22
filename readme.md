@@ -27,7 +27,7 @@
 - A strong foundation in one or more programming languages, such as Python,PHP, C++, or JavaScript
 - Experience with HTML, CSS, and JavaScript to develop visually appealing and interactive user interfaces
 
-## 🛠️ Tools and Framework:
+## 🛠️ Tools and Frameworks:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
