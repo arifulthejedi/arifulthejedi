@@ -50,7 +50,9 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
-
+| 💻 **Database** | 🚀 **Frontend** |**Backend**|
+| - | - | - |
+|<h3>T</h3>|<h3>G</h3>|<h3>O</h3>|
 
 
 
