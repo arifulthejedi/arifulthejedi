@@ -11,8 +11,10 @@
 </div>
 
 ## Feel free to contact with me:
-[![Instagram Badge](https://img.shields.io/badge/-roshanjayraj-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dopamine_seeker_/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/CyberPwn77)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ariful.islam1.cse@ulab.edu.bd
+)](mailto:ariful.islam1.cse@ulab.edu.bd)
 
 ## 🤖 About me:
 - Strong problem-solving skills and ability to break down complex problems
