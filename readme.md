@@ -4,9 +4,8 @@
   <h4>Hey! there, Welcome to my GitHub.</h4>
 <hr style="width:100%;height:2px;">
  <p>
-     Coding is my profession become my passion
-     Very Enthusiastic to do any works that help our
-     society and people. Always believe in humanity and faith.
+   Coding is my profession, but it has also become my passion. I am extremely motivated to accomplish any task that would benefit our society and individuals.  Always 
+   believe in humanity and faith.
  </p>
 </div>
 
